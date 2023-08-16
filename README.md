@@ -5,22 +5,6 @@ Explore the world of HTTP communication, authentication, and resource access thr
 
 This is a Python project that simulates HTTP communication between a client, an Authorization Server, and a Resource API.
 
-## Project Structure
-
-README.md file:
-
-# HTTP Simulation Project
-
-## Project Structure
-
-python_project/
-├── authorization_server.py
-├── resource_api.py
-├── main.py
-├── test_server_interactions.py
-└── requirements.txt
-
-
 
 ## How to Set Up the Project
 
